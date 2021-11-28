@@ -1,3 +1,11 @@
 [submodule "themes/hugo-theme-cleanwhite-rsy"]
 	path = themes/hugo-theme-cleanwhite-rsy
 	url = https://github.com/youngkin/hugo-theme-cleanwhite-rsy.git
+[submodule "kimlovo.github.io"]
+	path = kimlovo.github.io
+	url = https://github.com/kimlovo/kimlovo.github.io.git
+	branch = main
+[submodule "public"]
+	path = public
+	url = https://github.com/kimlovo/kimlovo.github.io.git
+	branch = main
